@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+}
+#check{
+    color: green;
+}
+#trash{
+    color: red;
+    float: right;
+}
+ul{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+span{
+    margin-left: 10%;
+}
+#task{
+    margin-left: 5%;
+    width: 50%;
+}
+form{
+    text-align: center;
+}
+li{
+    margin-top: 5px;
+    background-color: #fff9b0;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+body{
+    background-image: url(img/backround.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
